@@ -14,12 +14,6 @@ This Google Colab notebook implements Part 2 of SC5002 Lab Assignment 1:
 - **Task 2.2:** Model Execution & Alpha Tuning 
 - **Task 2.3:** Visual Analysis & Overfitting Insights
 
-### How to Run
-1. Open `SC5002_Assignment.ipynb` in this repository.
-2. Click **Open in Colab** or upload the notebook to [Google Colab](https://colab.research.google.com/).
-3. Connect to a runtime and run the code cells sequentially from top to bottom.
-4. Review the outputs, cross-validation R² scores and model comparison chart.
-
 ### Libraries Used
 - NumPy
 - Pandas

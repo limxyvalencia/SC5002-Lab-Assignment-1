@@ -2,6 +2,7 @@
 
 ## Repository Contents
 | `sc5002_lab_assignment_1.ipynb` | Completed Google Colab notebook containing the code and results for Tasks 2.1, 2.2 and 2.3. |
+
 | `README.md` | Notebook Instructions |
 
 ## Notebook Instructions

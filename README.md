@@ -27,4 +27,5 @@ This Google Colab notebook implements Part 2 of SC5002 Lab Assignment 1:
 - Evaluation metric: Mean 5-fold cross-validation R² score
 - Ridge Regression alpha values: 0.1, 10.0 and 1000.0
 
+
 The theoretical solutions for Part 1 and the Learn with AI deliverables are documented separately in the assignment report.
